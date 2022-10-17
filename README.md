@@ -8,10 +8,10 @@ Aquí puedes encontrar documentación sobre algunos procesos básicos como puede
 - Información general
 - Tips
 
-🎩 Fidel Arcos
-🌚 Sergio Garcia
-🍆 Roberto Peña
-
 ---
 
-> Si tienes alguna sugerencia no dudes en escribirnos, feel free ✌️
+🎩 ***Fidel Arcos***
+
+🌚 ***Sergio Garcia***
+
+🍆 ***Roberto Peña***
