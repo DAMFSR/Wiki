@@ -8,11 +8,9 @@ Aquí puedes encontrar documentación sobre algunos procesos básicos como puede
 - Información general
 - Tips
 
-## DAMFSR
-
-Es una organización para subir nuestros proyectos y trabajos realizados durante nuestros estudios de DAM 💻
-
-Fidel Arcos | Sergio Garcia | Roberto Peña
+🎩 Fidel Arcos
+🌚 Sergio Garcia
+🍆 Roberto Peña
 
 ---
 
